@@ -138,3 +138,8 @@ venv.bak/
 .vscode/c_cpp_properties.json
 *.code-workspace
 .history
+
+
+# Ignoriere alle .mat Dateien
+*.mat
+*.mat
